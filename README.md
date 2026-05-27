@@ -17,6 +17,28 @@
 
 ---
 
+## 🏆 GSSoC 2026 Achievements
+
+<p align="center">
+  <img src="./gssoc-badge-rising_star.png" width="150"/>
+  <img src="./gssoc-badge-bounty_master.png" width="150"/>
+  <img src="./gssoc-badge-first_steps.png" width="150"/>
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-discord_verified.png" width="150"/>
+  <img src="./gssoc-badge-profile_complete.png" width="150"/>
+  <img src="./gssoc-badge-point_scorer.png" width="150"/>
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-bounty_hunter.png" width="150"/>
+  <img src="./gssoc-badge-role_contributor.png" width="150"/>
+  <img src="./gssoc-badge-week_one.png" width="150"/>
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
