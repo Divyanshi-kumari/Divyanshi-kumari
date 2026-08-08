@@ -9,10 +9,9 @@
 ## 🏆 Badges
 
 <p align="center">
-  <img src="gssoc-badge-profile_complete.png" width="120">
-  <img src="gssoc-badge-first_steps.png" width="120">
-  <img src="gssoc-badge-week_one.png" width="120">
-  <img src="gssoc-badge-discord_verified.png" width="120">
+  <img src="https://img.shields.io/github/followers/Divyanshi-kumari?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Divyanshi-kumari?affiliations=OWNER&style=for-the-badge&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Divyanshi-kumari&style=for-the-badge&label=Profile%20Views" />
 </p>
 
 ---
@@ -20,14 +19,21 @@
 ## 🏆 GSSoC 2026 Achievements
 
 <p align="center">
-  <img src="gssoc-badge-role_contributor.png" width="120">
-  <img src="gssoc-badge-point_scorer.png" width="120">
-  <img src="gssoc-badge-bounty_hunter.png" width="120">
-  <img src="gssoc-badge-bounty_master.png" width="120">
+  <img src="./gssoc-badge-profile_complete.png" width="120" />
+  <img src="./gssoc-badge-first_steps.png" width="120" />
+  <img src="./gssoc-badge-week_one.png" width="120" />
+  <img src="./gssoc-badge-discord_verified.png" width="120" />
 </p>
 
 <p align="center">
-  <img src="gssoc-badge-rising_star.png" width="120">
+  <img src="./gssoc-badge-role_contributor.png" width="120" />
+  <img src="./gssoc-badge-point_scorer.png" width="120" />
+  <img src="./gssoc-badge-bounty_hunter.png" width="120" />
+  <img src="./gssoc-badge-bounty_master.png" width="120" />
+</p>
+
+<p align="center">
+  <img src="./gssoc-badge-rising_star.png" width="120" />
 </p>
 
 ---
@@ -60,11 +66,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyanshi-kumari&show_icons=true&include_all_commits=true&count_private=true" alt="Divyanshi's GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyanshi-kumari&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshi-kumari&layout=compact" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyanshi-kumari&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divyanshi-kumari&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyanshi-kumari&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Divyanshi-kumari&theme=default&utcOffset=5.5" />
 </p>
 
 ---
